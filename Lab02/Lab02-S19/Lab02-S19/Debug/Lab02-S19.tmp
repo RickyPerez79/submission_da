@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\perez\Documents\Atmel Studio\7.0\Lab02-S19\Lab02-S19\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\perez\Documents\Atmel Studio\7.0\Lab02-S19\Lab02-S19\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\perez\Documents\Atmel Studio\7.0\Lab02-S19\Lab02-S19\Debug\Lab02-S19.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab02-S19.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab02-S19.map</FILE>
+  <FILE>Lab02-S19.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>c:\users\perez\Documents\Atmel Studio\7.0\Lab02-S19\Lab02-S19\main.asm</FILE><LINE>40</LINE></start>
+  <divide_by_three><FILE>c:\users\perez\Documents\Atmel Studio\7.0\Lab02-S19\Lab02-S19\main.asm</FILE><LINE>48</LINE></divide_by_three>
+  <notDiv><FILE>c:\users\perez\Documents\Atmel Studio\7.0\Lab02-S19\Lab02-S19\main.asm</FILE><LINE>71</LINE></notDiv>
+  <isDiv><FILE>c:\users\perez\Documents\Atmel Studio\7.0\Lab02-S19\Lab02-S19\main.asm</FILE><LINE>61</LINE></isDiv>
+  <done_adding><FILE>c:\users\perez\Documents\Atmel Studio\7.0\Lab02-S19\Lab02-S19\main.asm</FILE><LINE>79</LINE></done_adding>
+  <Done><FILE>c:\users\perez\Documents\Atmel Studio\7.0\Lab02-S19\Lab02-S19\main.asm</FILE><LINE>91</LINE></Done>
+ </LABELS>
+</ASSEMBLER_INFO>
