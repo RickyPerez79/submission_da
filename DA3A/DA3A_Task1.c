@@ -11,7 +11,7 @@
 #include <avr/io.h>
 #include <stdio.h>
 #include <util/delay.h>
-#include <avr/interrupt.h>rr
+#include <avr/interrupt.h>
 
 //////////////////////////// Declare functions////////////////
 void USART_send(char data);
